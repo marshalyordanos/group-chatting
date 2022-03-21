@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+/backend-chatapp/node_modules
+
 # testing
 /coverage
 

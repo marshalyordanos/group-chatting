@@ -1,0 +1,24 @@
+.header{
+    /* width: 1000px; */
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:1px solid rgb(204, 204, 204) ;
+}
+.header__avater__div{
+    display: flex;
+    align-items: center;
+
+}
+.header__avater__div p{
+    margin-left: 10px;
+}
+.header__avater{
+    margin-left: 20px;
+}
+.headel__input{
+    margin: 10px !important;
+    width: 300px;
+    padding: 0 !important;
+}
